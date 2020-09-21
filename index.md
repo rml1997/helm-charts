@@ -14,8 +14,6 @@ helm repo update
 
 ## Install chart
 
-Using config from a file:
-
 ```bash
 helm install --generate-name rml1997/android
 ```
